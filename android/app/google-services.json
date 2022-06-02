@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1069102301689",
+    "firebase_url": "https://pushme-dfeb5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pushme-dfeb5",
+    "storage_bucket": "pushme-dfeb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069102301689:android:49f62e78e1352e00687d28",
+        "android_client_info": {
+          "package_name": "com.example.pushme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069102301689-d5jlondhaq0dr3ugd5mgsceudj8cnkg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBISpHerLOQGZ9Gh6SfztbMLDVItAUukVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069102301689-d5jlondhaq0dr3ugd5mgsceudj8cnkg0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069102301689-b1r8e5677cn1spr287qfu27bamuj2nph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ch.pushme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
